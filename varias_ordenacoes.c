@@ -9,7 +9,6 @@ int main()
     scanf("%lf", &primeiro);
     scanf("%lf", &segundo);
     scanf("%lf", &terceiro);
-
     if(i==1){
 
     if(primeiro>=segundo && primeiro <=terceiro)
